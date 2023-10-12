@@ -11,6 +11,8 @@ void contactStarted( FContact colision) {
 
     contadorDeColisiones++;
     mundo.remove(dos);  // Eliminar la bala cuando colisiona con el pastor
+    miSonido2.play();
+
 
     if (anchoBarra < 200) {
 
