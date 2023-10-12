@@ -1,8 +1,4 @@
 //LINK DE DRIVE CON EL ARCHIVO .ZIP DEL SOFTWARE UTILIZADO ==> https://drive.google.com/drive/folders/1e2CQjfc7eflKa_tiiKpTcwWirx6LWbSw?usp=sharing
-// ACLARACIÓN IMPORTANTE: Tuvimos que comprimir la carpeta data para subirla a github porque era muy pesada por los archivos .wav de la música así que, tememos que no funcione con la carpeta data comprimida que subimos. Por eso, enviamos un link de Drive con el archivo .zip con el peso original de la carpeta data.
-// CARPETA DE DRIVE CON EL CÓDIGO SIN COMRPIMIR ==> https://drive.google.com/drive/folders/1XoPuMyElKaFcr6Guq9FJiFCmUyej3iiM?usp=drive_link 
-
-
 
 import netP5.*;
 import oscP5.*;
